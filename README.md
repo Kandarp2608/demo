@@ -1,2 +1,2 @@
 # demo
-this is my second git epository .
+this is my second git repository .
